@@ -29,8 +29,7 @@ This is a web based application developed for Food related based website in indi
 ![Screenshot (1)](https://user-images.githubusercontent.com/117972012/202886321-f9f13435-fe92-43c4-b146-b84a5e3e5ec7.png)
 
 
-![Screenshot (2)](https://user-images.githubusercontent.com/117972012/202886327-19440ed7-4fbd-4f27-b214-b1f98553bd86.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/117972012/202886331-df775d64-45b1-4af8-a348-562bbf25a448.png)
+
 
    
 
