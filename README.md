@@ -8,7 +8,7 @@ This is a web based application developed for Food related based website in indi
 
 
 **Project Link** -https://green-desert-01d878800.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/Zx9S0-DcgQ8 
 
 ## Azure technologies used for Project
 
