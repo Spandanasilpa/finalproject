@@ -14,7 +14,7 @@ This is a web based application developed for Food related based website in indi
 
 - Static web apps
 - visual studio code
-
+- Azure Services
 ## Features and Functionalities 😃
 
 - Responsive and Interactive UI.
